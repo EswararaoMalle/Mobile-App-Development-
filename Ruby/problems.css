@@ -137,13 +137,18 @@ aside .third {
 
 aside .fourth {
     position: absolute;
-    top: 42%;
+    top: 55%;
 }
 
 aside .fifth {
     position: absolute;
-    top: 54%;
+    top: 70%;
 }
+aside .sixth {
+    position: absolute;
+    top: 88%;
+}
+
 
 aside p {
     width: 100px;
